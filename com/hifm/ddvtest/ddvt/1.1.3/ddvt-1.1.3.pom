@@ -10,13 +10,6 @@
 
     <url>http://code.essocloud.com/dependencies/testmaven/</url>
 
-    <repositories>
-        <repository>
-            <id>hifm.gitlab</id>
-            <url>http://code.essocloud.com/dependencies/testmaven/</url>
-        </repository>
-    </repositories>
-
     <build>
         <plugins>
             <plugin>
